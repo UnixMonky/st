@@ -5,8 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-// static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
-static char *font = "B612 Mono:style=Regular:pixelsize=14:antialias=true:autohint=true";
+static char *font = "MesloLGSDZ Nerd Font:style=Regular:pixelsize=16";
 static int borderpx = 2;
 
 /*
